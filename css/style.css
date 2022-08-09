@@ -305,3 +305,43 @@ footer{
 .footer-desmain{
     height: 200px;
 }
+
+/* Interview-main */
+#interview-main{
+    width: 100%;
+    background-color: #F0F0F0;
+    padding: 20px 0 50px 0;
+}
+.interview-block__link{
+    font-size: 14px;
+    font-weight: 600;
+    color: #2c51d4;
+}
+.interview-main__contents{
+    justify-content: space-around;
+}
+.imaini-content{
+    width: 20%;
+    padding: 20px 15px;
+    background-color: #fff;
+}
+.imaini-conetn__img{
+    position: relative;
+    top: -30px;
+    left: -40px;
+    width: 264px;
+    height: 165px;
+    box-shadow: 13px 11px 0px 0px #0D1B8C;
+}
+.imaini-conetn__span{
+    font-size: 28px;
+    font-weight: 700;
+    color: #e3e3e3;
+}
+.imaini-conetn__text{
+    margin-top: 20px;
+    line-height: 23px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #000;
+}
